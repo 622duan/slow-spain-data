@@ -1308,7 +1308,7 @@
         "story": "彭于晏同款。Russafa 区,店里有一面蓝色的墙可以拍照。海鲜饭有点咸,两人起点即可。蜂蜜黄油烤虾推荐。",
         "hours": "13:30-16:00 / 20:00-23:00",
         "price": "€€€",
-        "image": "/images/placeholder.jpg",
+        "image": "https://622duan.github.io/slow-spain-pwa/images/image25.jpeg",
         "rating": 4.6,
         "distance": "1.0km"
       },
@@ -1412,17 +1412,17 @@
       {
         "id": "v-r5",
         "cat": "restaurant",
-        "name": "Apéro & Agua de Valencia",
-        "name_es": "Apéro & Agua de Valencia",
-        "google_query": "Agua de Valencia Catedral Lonja bar",
-        "address": "Catedral / La Lonja 附近, 46001 Valencia",
+        "name": "Café de las Horas",
+        "name_es": "Café de las Horas",
+        "google_query": "Cafe de las Horas Valencia",
+        "address": "C/ del Comte d'Almodóvar, 1, Ciutat Vella, 46003 València",
         "tags": [
-          "🌟 阿佩罗橙光",
-          "瓦伦西亚之水",
-          "伏特加底"
+          "🌟 Agua de Valencia 最佳",
+          "新巴洛克内饰",
+          "24/7 推荐"
         ],
-        "story": "主教堂和丝绸交易所附近的橙子主题餐厅。两款招牌:阿佩罗橙光(Aperol Spritz)和瓦伦西亚之水(Agua de Valencia)。瓦伦西亚之水好喝,但基底是伏特加,别贪杯。",
-        "hours": "11:00-01:00",
+        "story": "Agua de Valencia 真正推荐去的地方(而不是起源店)。新巴洛克内饰:水晶吊灯、天鹅绒窗帘、大理石桌。19 世纪宫殿建筑,24/7 Valencia 称其为「巴黎咖啡馆+英式茶室+美式鸡尾酒廊」。堂食 Agua de Valencia 配方最佳(cava + 鲜榨橙 + 自家柑橘利口酒)。最好 21 点前去,周末晚要排队。Plaza de la Virgen 往南一条街。",
+        "hours": "10:00-01:00 (周末更晚)",
         "price": "€€",
         "image": "/images/placeholder.jpg",
         "rating": 4.6,
