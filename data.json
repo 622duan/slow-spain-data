@@ -994,11 +994,11 @@
         "google_query": "Restaurante Recreo Peral Cuenca",
         "address": "C. de San Pedro, 31, 16001 Cuenca",
         "tags": [
+          "🌟🌟🌟🌟🌟",
           "45 天熟成牛排",
-          "小章鱼",
-          "芝士蛋糕"
+          "小章鱼配青椒"
         ],
-        "story": "本地番茄沙拉、45 天熟成牛排、小章鱼配青椒、芝士蛋糕(流心超好吃)。",
+        "story": "Restaurante Recreo Peral 本地番茄沙拉、45 天熟成牛排、小章鱼配青椒、芝士蛋糕(流心超好吃)。本照片暂无,实地拍。",
         "hours": "13:30-16:00 / 20:30-23:00",
         "price": "€€€",
         "image": "/images/placeholder.jpg",
@@ -1014,11 +1014,11 @@
         "google_query": "Bodeguita Capuz Cuenca",
         "address": "C. de los Tiradores, 3, 16001 Cuenca",
         "tags": [
-          "伊比利亚黑猪",
-          "脆皮五花肉",
-          "炸鱿鱼圈"
+          "🌟🌟🌟🌟",
+          "伊比利亚黑猪肉",
+          "茄汁配洋蓟菜"
         ],
-        "story": "伊比利亚黑猪肉、茄汁配洋蓟菜、脆皮五花肉、炸鱿鱼圈。",
+        "story": "Bodeguita Capuz:伊比利亚黑猪肉、茄汁配洋蓟菜(Alcachofa)、脆皮五花肉、炸鱿鱼圈。",
         "hours": "13:00-16:00 / 20:00-23:00",
         "price": "€€€",
         "image": "https://622duan.github.io/slow-spain-pwa/images/image14.jpeg",
@@ -1033,11 +1033,11 @@
         "google_query": "Grotte del Huecar Cuenca",
         "address": "Camino del Recreo Peral, 16004 Cuenca",
         "tags": [
+          "🌟🌟🌟🌟",
           "洞穴氛围",
-          "牛排汉堡",
-          "伊比利亚酱猪肘"
+          "牛排汉堡"
         ],
-        "story": "洞穴氛围。牛排汉堡、伊比利亚酱猪肘、配菜土豆泥很不错。",
+        "story": "Grotte del huecar 洞穴氛围。牛排汉堡、伊比利亚酱猪肘、配菜土豆泥很不错。",
         "hours": "13:00-23:00",
         "price": "€€",
         "image": "https://622duan.github.io/slow-spain-pwa/images/image15.jpeg",
@@ -1052,11 +1052,11 @@
         "google_query": "Casa Manzar Cuenca",
         "address": "Pl. Mayor, 16001 Cuenca",
         "tags": [
+          "🌟🌟🌟🌟🌟",
           "古城中心",
-          "Menu corto/largo",
-          "必点 Ajoarriero"
+          "Menu corto/largo"
         ],
-        "story": "处于古城中心 Casco Histórico。分为长菜单和短菜单。前菜全桌共享。必点 Ajoarriero(鳕鱼土豆泥)和 Puré de patatas。主菜羊肉和朝鲜蓟。甜点巧克力控必点 Nido de Chocolate,Helado de Turrón(杏仁糖冰淇淋)。",
+        "story": "Casa Manzar 处于古城中心 Casco Histórico,分为长菜单和短菜单(Menú corto/largo)。前菜是全桌共享的(大家选一样的 2-3 款)。必点推荐:Cuenca 特色前菜 Ajoarriero(鳕鱼土豆泥)和特制的 Puré de patatas,地道的昆卡味道,细腻又香浓。主菜羊肉(Cordero)和朝鲜蓟(Alcachofa)。甜点时间:巧克力控闭眼点 Nido de Chocolate,他家的 Helado de Turrón(杏仁糖冰淇淋)也非常清爽惊艳。",
         "hours": "13:00-16:00 / 20:00-23:00",
         "price": "€€",
         "image": "https://622duan.github.io/slow-spain-pwa/images/image17.jpeg",
@@ -1072,10 +1072,11 @@
         "google_query": "Gastrobar Gaia Cuenca",
         "address": "C. de Colón, 51, 16002 Cuenca",
         "tags": [
+          "🌟🌟🌟🌟",
           "现代菜",
-          "€€"
+          "昆卡 Gaia"
         ],
-        "story": "现代风格的 Gastrobar。地址 C. de Colón, 51。出酒店东南方向走两个路口。",
+        "story": "Gastrobar Gaia,地址 C. de Colón, 51, 16002 Cuenca。出酒店东南方向走两个路口。",
         "hours": "13:00-16:00 / 20:00-23:00",
         "price": "€€",
         "image": "https://622duan.github.io/slow-spain-pwa/images/image19.jpeg",
@@ -1085,15 +1086,16 @@
       {
         "id": "c-r6",
         "cat": "restaurant",
-        "name": "悬空之家餐厅",
+        "name": "悬空之家餐厅(Casas Colgadas)",
         "name_es": "Mesón Casas Colgadas",
         "google_query": "Meson Casas Colgadas Cuenca",
         "address": "C. Canónigos, s/n, 16001 Cuenca",
         "tags": [
+          "🌟🌟🌟🌟",
           "悬崖景观",
-          "€€€"
+          "吊脚楼"
         ],
-        "story": "就在悬屋(Casas Colgadas)正下方,露台看峡谷日落一绝。",
+        "story": "悬空之家(Casas Colgadas)吊脚楼餐厅。就在悬屋正下方,露台看峡谷日落一绝。本照片暂无,实地拍。",
         "hours": "13:00-16:00 / 20:00-23:00",
         "price": "€€€",
         "image": "/images/placeholder.jpg",
@@ -1108,11 +1110,11 @@
         "google_query": "Bar Alex Cuenca",
         "address": "C. de Carretería, 19, 16001 Cuenca",
         "tags": [
+          "🌟🌟🌟",
           "中餐",
-          "柠檬鸡",
-          "€€"
+          "柠檬鸡"
         ],
-        "story": "昆卡少见的中餐选择,柠檬鸡还可以。",
+        "story": "Bar Alex Cocina asiática 昆卡少见的中餐选择,柠檬鸡还可以。",
         "hours": "12:00-16:00 / 19:00-23:00",
         "price": "€€",
         "image": "https://622duan.github.io/slow-spain-pwa/images/image16.jpeg",
