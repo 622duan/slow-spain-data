@@ -79,7 +79,7 @@
         "story": "World's 101 Best Steak Restaurants 排名第五。干式熟成牛排是马德里本地人的骄傲。",
         "hours": "13:00-16:00 / 20:00-00:00",
         "price": "€€€€",
-        "image": "/images/image48.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image48.jpeg",
         "rating": 4.8,
         "distance": "0.5km",
         "hot": true,
@@ -123,7 +123,7 @@
         "story": "传说中吉尼斯认证世界最古老的餐厅,1725 年开业。烤乳猪用伊比利亚猪,皮很脆,量按人数上。蛤蜊黄油焗的很香。西班牙冷汤是季节性限定,伊比利亚火腿跟外面的味道不大一样。甜点可以选以店名命名的——整个膏体略湿润,中间有淡奶油,外面类似舒芙蕾。",
         "hours": "13:00-16:00 / 20:00-24:00",
         "price": "€€€",
-        "image": "/images/image50.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image50.jpeg",
         "rating": 4.7,
         "distance": "0.4km",
         "hot": true,
@@ -148,7 +148,7 @@
         "story": "The Fork 上可预约。章鱼足配芝士土豆泥、三文鱼塔塔都很不错。C. de San Marcos, 37, Centro, 28004 Madrid。",
         "hours": "13:00-16:00 / 20:00-00:00",
         "price": "€€€",
-        "image": "/images/image53.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image53.jpeg",
         "rating": 4.4,
         "distance": "0.6km"
       },
@@ -167,7 +167,7 @@
         "story": "靠近 Retiro 公园。米其林餐厅。招牌:脆皮野鸡、慢烤牛排、白虾前菜、安康鱼烩饭、慢炖鹿肉。人均 €50-70。Calle Lope de Rueda, 35, 28009 Madrid。",
         "hours": "13:30-16:00 / 20:30-23:30",
         "price": "€€€€",
-        "image": "/images/image54.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image54.jpeg",
         "rating": 4.7,
         "distance": "1.2km"
       },
@@ -186,7 +186,7 @@
         "story": "马德里王宫附近。Restaurante La Mi Venta, Pl. de la Marina Española, 7, Centro, 28013 Madrid。下午 1 点开门。小鱿鱼火腿都不错,牛排等得比较久。",
         "hours": "13:00-16:00 / 20:00-23:00",
         "price": "€€€",
-        "image": "/images/image49.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image49.jpeg",
         "rating": 4.5,
         "distance": "0.9km"
       },
@@ -205,7 +205,7 @@
         "story": "普拉多博物馆附近,从早开到晚的小店。经典 Alcachofa(朝鲜蓟)和 Huevos Rotos con Ibérico(伊比利亚火腿煎蛋),蘑菇烩饭和烤排骨也好吃。C. de Moreto, 17, Retiro, 28014, Madrid。",
         "hours": "08:00-01:00",
         "price": "€€€",
-        "image": "/images/image58.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image58.jpeg",
         "rating": 4.4,
         "distance": "1.0km"
       },
@@ -224,7 +224,7 @@
         "story": "Mercado de La Paz 内的 Casa Dani。爆浆土豆饼必吃。附近可以逛逛 Calle Serrano 富人区(可能有点像东京青山,看个人理解)。",
         "hours": "10:00-16:00",
         "price": "€€",
-        "image": "/images/image57.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image57.jpeg",
         "rating": 4.5,
         "distance": "0.8km",
         "hot": true
@@ -284,7 +284,7 @@
         "story": "招牌是开心果巴斯克。开心果巴斯克是流心状态的,开心果足量,有坚果油脂香。脏脏茶有很重的香料味,糖包单独配了,茶浓度非常高,客观来说不放糖属于苦的那类。",
         "hours": "09:00-20:00",
         "price": "€€",
-        "image": "/images/image59.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image59.jpeg",
         "rating": 4.6,
         "distance": "0.9km"
       },
@@ -323,7 +323,7 @@
         "story": "Alo 74158 COE 豆一般,有点重容易咸,但有性价比。氛围不错,咖啡师友好。",
         "hours": "08:30-19:00",
         "price": "€€",
-        "image": "/images/image60.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image60.jpeg",
         "rating": 4.6,
         "distance": "1.0km"
       },
@@ -475,7 +475,7 @@
         "story": "马德里一日漫游路线(以手工艺人集市为锚,设计 Day 1+Day 2 串联)。手工艺人集市 Palacio Santa Bárbara(Calle Hortaleza, 87),位于 Hortaleza 街,距离 Chueca、Alonso Martínez 等区域都很近,适合下午的市中心散步路线,有珠宝插画、露台美食区,入场免费。📅 活动日期:第一周末 9月18日(周五)17:00-21:00、9月19日(周六)11:30-21:00、9月20日(周日)11:30-20:00;第二周末 9月25日(周五)17:00-21:00、9月26日(周六)11:30-21:00、9月27日(周日)11:30-20:00。Day 1 串联:Palacio Santa Bárbara → 马德里皇宫 → 皇家歌剧院 → 太阳门广场 → 马约尔广场 → 圣米格尔市场 → 格兰大道。Day 2 串联:提森博物馆 → 普拉多博物馆 → 丽池公园 → 索菲亚王后艺术中心。延伸散步:Calle Serrano 富人区(Louis Vuitton、Loewe 旗舰店)。",
         "hours": "全天",
         "price": "免费-€€€",
-        "image": "/images/image61.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image61.jpeg",
         "rating": 4.9,
         "distance": "0.0km",
         "hot": true
@@ -497,7 +497,7 @@
         "story": "MYKA 可以免费加两个小料,开心果迪拜巧克力酱也可以免费加。希腊酸奶冰淇淋很有名,有些店是冰淇淋有些是 Gelato。",
         "hours": "11:00-23:00",
         "price": "€",
-        "image": "/images/image2.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image2.jpeg",
         "rating": 4.6,
         "distance": "0.2km"
       },
@@ -535,7 +535,7 @@
         "story": "La Malquerida de la Trinidad 猪肋排软烂,鲜榨橙汁、菜单丰富。",
         "hours": "13:00-16:00 / 20:00-23:00",
         "price": "€€",
-        "image": "/images/image3.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image3.jpeg",
         "rating": 4.8,
         "distance": "0.2km",
         "hot": true
@@ -555,7 +555,7 @@
         "story": "Casón de los Lopez Restaurant 酒店餐厅,环境很不错,适合带女孩子去,蒜香煎大虾、烤鸡腿,有 Menu del Día(定食)适合一人食分餐制。",
         "hours": "13:00-16:00 / 20:00-23:00",
         "price": "€€€",
-        "image": "/images/image4.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image4.jpeg",
         "rating": 4.7,
         "distance": "0.3km",
         "hot": true
@@ -575,7 +575,7 @@
         "story": "Taberna La Esencial 环境很美丽,像是古迹,没有英文菜单。Champiñón 炭火烤蘑菇配溏心蛋,Cordero 炭火烤羊肋条,量大适合多人分食。",
         "hours": "13:00-16:00 / 20:00-23:00",
         "price": "€€€",
-        "image": "/images/image5.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image5.jpeg",
         "rating": 4.7,
         "distance": "0.2km"
       },
@@ -594,7 +594,7 @@
         "story": "Taberna Embrujo 门面不大但很有氛围。有露天座位,营业相对较早适合早点吃晚餐。有英文菜单。桑格利亚 Sangría 当地比较有名,酒味比较明显。混合沙拉份量大,貌似可以做半分 half,里面的金枪鱼可以换。混和煎菜:蘑菇、虾、鱿鱼略咸(西班牙通病,可以提前说少盐)。",
         "hours": "12:00-16:00 / 19:00-23:00",
         "price": "€€",
-        "image": "/images/image6.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image6.jpeg",
         "rating": 4.5,
         "distance": "0.2km"
       },
@@ -652,7 +652,7 @@
         "story": "La Esencia 是 Hotel Carlos V 的室内餐厅,环境不错有历史感。可以看到托莱多全貌景色好,还有露天餐厅。人均 25 欧。适合带女孩子去。",
         "hours": "13:00-16:00 / 20:00-23:00",
         "price": "€€€",
-        "image": "/images/image9.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image9.jpeg",
         "rating": 4.5,
         "distance": "0.4km"
       },
@@ -671,7 +671,7 @@
         "story": "Pastucci Trattoria-Pizzeria 意式披萨,独立小矮房子,披萨大小两个尺寸差距不大。素的推荐蘑菇款。意面慎点!提拉米苏还可以。",
         "hours": "13:00-23:30",
         "price": "€€",
-        "image": "/images/image7.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image7.jpeg",
         "rating": 4.3,
         "distance": "0.3km"
       },
@@ -690,7 +690,7 @@
         "story": "Barrio Taberna Moderna 服务热情,有餐前小食,橄榄带核但相对清淡。炸鱿鱼三明治不错,地址在 Plaza de Zocodover,游客便于到达。",
         "hours": "12:00-00:00",
         "price": "€€",
-        "image": "/images/image8.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image8.jpeg",
         "rating": 4.3,
         "distance": "0.1km"
       },
@@ -806,7 +806,7 @@
         "story": "卡斯蒂利亚拉曼查图书馆(Biblioteca de Castilla-La Mancha)顶层图书馆对外开放,有个咖啡厅,可免费进入观景台;360° 俯瞰托莱多全景,日落时分尤其震撼。如果遇到休馆日,可绕道城堡后面,有小门可进,只需过个安检。",
         "hours": "10:00-20:00",
         "price": "€€",
-        "image": "/images/image12.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image12.jpeg",
         "rating": 4.9,
         "distance": "0.2km",
         "hot": true
@@ -942,7 +942,7 @@
         "story": "中世纪风格首饰店,伊丽莎白时期风格。如果喜欢银饰、复古戒指,这间是托莱多最出名的。",
         "hours": "10:00-20:00",
         "price": "€€€",
-        "image": "/images/image13.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image13.jpeg",
         "rating": 4.7,
         "distance": "0.2km"
       },
@@ -961,7 +961,7 @@
         "story": "山顶堡垒,曾是卡洛斯五世的皇宫,现在为军事博物馆。登顶可俯瞰托莱多全城。",
         "hours": "10:00-17:00",
         "price": "€€",
-        "image": "/images/image24.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image24.jpeg",
         "rating": 4.6,
         "distance": "0.3km"
       },
@@ -980,7 +980,7 @@
         "story": "托莱多老城中心广场,从中世纪的市场演变至今。游客集散地,周边小吃和纪念品店密集。",
         "hours": "全天",
         "price": "免费",
-        "image": "/images/image28.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image28.jpeg",
         "rating": 4.5,
         "distance": "0.1km"
       }
@@ -1021,7 +1021,7 @@
         "story": "伊比利亚黑猪肉、茄汁配洋蓟菜、脆皮五花肉、炸鱿鱼圈。",
         "hours": "13:00-16:00 / 20:00-23:00",
         "price": "€€€",
-        "image": "/images/image14.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image14.jpeg",
         "rating": 4.6,
         "distance": "0.3km"
       },
@@ -1040,7 +1040,7 @@
         "story": "洞穴氛围。牛排汉堡、伊比利亚酱猪肘、配菜土豆泥很不错。",
         "hours": "13:00-23:00",
         "price": "€€",
-        "image": "/images/image15.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image15.jpeg",
         "rating": 4.4,
         "distance": "0.8km"
       },
@@ -1059,7 +1059,7 @@
         "story": "处于古城中心 Casco Histórico。分为长菜单和短菜单。前菜全桌共享。必点 Ajoarriero(鳕鱼土豆泥)和 Puré de patatas。主菜羊肉和朝鲜蓟。甜点巧克力控必点 Nido de Chocolate,Helado de Turrón(杏仁糖冰淇淋)。",
         "hours": "13:00-16:00 / 20:00-23:00",
         "price": "€€",
-        "image": "/images/image17.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image17.jpeg",
         "rating": 4.7,
         "distance": "0.2km",
         "hot": true
@@ -1078,7 +1078,7 @@
         "story": "现代风格的 Gastrobar。地址 C. de Colón, 51。出酒店东南方向走两个路口。",
         "hours": "13:00-16:00 / 20:00-23:00",
         "price": "€€",
-        "image": "/images/image19.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image19.jpeg",
         "rating": 4.5,
         "distance": "0.3km"
       },
@@ -1115,7 +1115,7 @@
         "story": "昆卡少见的中餐选择,柠檬鸡还可以。",
         "hours": "12:00-16:00 / 19:00-23:00",
         "price": "€€",
-        "image": "/images/image16.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image16.jpeg",
         "rating": 4,
         "distance": "0.4km"
       },
@@ -1269,7 +1269,7 @@
         "story": "海边漂亮饭。Malvarrosa 海滩边,白色遮阳棚 + 棕榈树,正对着地中海。拍照超出片。",
         "hours": "13:00-16:00 / 20:00-23:30",
         "price": "€€€€",
-        "image": "/images/image23.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image23.jpeg",
         "rating": 4.6,
         "distance": "4.0km"
       },
@@ -1327,7 +1327,7 @@
         "story": "米其林厨师 Ricard Camarena 在中央市场内开的简餐档口。市场内没有座位,想坐下来用餐可到「旁门入口」方向的餐厅区。last order 15:00。",
         "hours": "07:30-15:00 (last order)",
         "price": "€€€",
-        "image": "/images/image28.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image28.jpeg",
         "rating": 4.8,
         "distance": "0.6km"
       },
@@ -1346,7 +1346,7 @@
         "story": "开心果可颂和焦糖这两款面包都好好吃,味道都好浓郁,但有点偏甜。面包口感很好,外脆内软,咬下去好满足。",
         "hours": "08:00-20:00",
         "price": "€€",
-        "image": "/images/image29.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image29.jpeg",
         "rating": 4.8,
         "distance": "0.8km",
         "hot": true
@@ -1366,7 +1366,7 @@
         "story": "瓦伦西亚流心巴斯克。价格比巴塞和马德里的 Keik 还要贵。焦糖味好重,口感也很软滑,但略嫌芝士味不够。",
         "hours": "10:00-20:00",
         "price": "€€€",
-        "image": "/images/image30.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image30.jpeg",
         "rating": 4.5,
         "distance": "0.7km"
       },
@@ -1385,7 +1385,7 @@
         "story": "酒店附近。Carrer d'Andrés Mancebo, 40, 46023 València,8:00-20:00。分层拿铁和咖啡欧蕾超出片。",
         "hours": "08:00-20:00",
         "price": "€€",
-        "image": "/images/image31.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image31.jpeg",
         "rating": 4.6,
         "distance": "0.3km"
       },
@@ -1578,7 +1578,7 @@
         "story": "巴塞罗那传奇 Tapas 吧,店面小但精致。Montaditos 三三明治(烟熏三文鱼、虾、黑鱼子酱面包)、Tapas 拼盘是经典款。",
         "hours": "12:00-16:00 / 19:00-23:00",
         "price": "€€€",
-        "image": "/images/image32.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image32.jpeg",
         "rating": 4.7,
         "distance": "1.5km"
       },
@@ -1597,7 +1597,7 @@
         "story": "巴塞主教堂旁。4.99 欧 5 个 Pinchos,€1/个。品种多,西班牙北部风格小吃。",
         "hours": "11:00-23:00",
         "price": "€",
-        "image": "/images/image33.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image33.jpeg",
         "rating": 4.4,
         "distance": "0.4km"
       },
@@ -1616,7 +1616,7 @@
         "story": "波浪状屋顶的现代主义市场,本地人买菜的市集。建筑本身就是亮点,菜摊和简餐小摊都有。生蚝、金枪鱼、三文鱼、龙虾腿都很新鲜,可以直接买了吃。",
         "hours": "07:30-15:30",
         "price": "€€",
-        "image": "/images/image34.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image34.jpeg",
         "rating": 4.5,
         "distance": "0.7km"
       },
@@ -1635,7 +1635,7 @@
         "story": "人气 Tapas 店,闭眼点不踩雷。鹅肝牛排是经典款、炸鱿鱼圈、香槟 Sangría 很清爽。店员会中文(疑似投流,实际味道不确定,自己定)。",
         "hours": "13:00-16:00 / 20:00-00:00",
         "price": "€€€",
-        "image": "/images/image36.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image36.jpeg",
         "rating": 4.5,
         "distance": "1.0km"
       },
@@ -1654,7 +1654,7 @@
         "story": "巴塞罗那海滩窗景餐厅。C/del Baluard, 124, Ciutat Vella, 08003。Barceloneta 区的老牌海鲜餐厅,正对海滩。",
         "hours": "13:00-16:00 / 20:00-23:30",
         "price": "€€€",
-        "image": "/images/image37.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image37.jpeg",
         "rating": 4.5,
         "distance": "1.8km"
       },
@@ -1673,7 +1673,7 @@
         "story": "巨好吃的巴斯克蛋糕。不知道有多好吃——攻略都说不出来,去了才知道。门面挂着 TELL PEOPLE YOU LOVE THEM,氛围很轻松。",
         "hours": "10:00-20:00",
         "price": "€€",
-        "image": "/images/image38.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image38.jpeg",
         "rating": 4.9,
         "distance": "1.2km",
         "hot": true
@@ -1711,7 +1711,7 @@
         "story": "酱汁蜗牛(不是国内田螺,有触角的蜗牛)。海鲜饭可以点单人份,经典款是黑色海鲜饭(墨鱼汁饭)。百年老店,门口烤鸡很显眼。",
         "hours": "13:00-00:00",
         "price": "€€",
-        "image": "/images/image40.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image40.jpeg",
         "rating": 4.4,
         "distance": "0.5km"
       },
@@ -1730,7 +1730,7 @@
         "story": "Jennie 同款餐厅。米其林餐厅,网上推荐率高,但不一定有位置,大概率要预约。据说属于完全不踩雷。",
         "hours": "13:00-16:00 / 19:30-23:30",
         "price": "€€€",
-        "image": "/images/image42.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image42.jpeg",
         "rating": 4.7,
         "distance": "0.2km",
         "hot": true
@@ -1790,7 +1790,7 @@
         "story": "全球百佳咖啡馆第 16 名(Nomad Frutas Selectas)。Carrer de Pujades, 95, Sant Martí。本地精品,Espresso 和手冲都在水准之上。",
         "hours": "08:00-19:00",
         "price": "€€",
-        "image": "/images/image44.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image44.jpeg",
         "rating": 4.9,
         "distance": "2.0km",
         "hot": true
@@ -1810,7 +1810,7 @@
         "story": "全球百佳咖啡馆第 83 名。Carrer de Casp, 48, Eixample。",
         "hours": "08:00-19:00",
         "price": "€€",
-        "image": "/images/image45.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image45.jpeg",
         "rating": 4.8,
         "distance": "1.0km"
       },
@@ -1829,7 +1829,7 @@
         "story": "强烈推荐阿芙佳朵(Affogato)。上面的 Gelato 是含有香草籽的,口感非常细腻。",
         "hours": "08:00-19:00",
         "price": "€€",
-        "image": "/images/image46.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image46.jpeg",
         "rating": 4.7,
         "distance": "0.9km",
         "hot": true
@@ -1849,7 +1849,7 @@
         "story": "店面不大,木质装修。Flat White 和拿铁都还可以。",
         "hours": "08:00-19:00",
         "price": "€€",
-        "image": "/images/image43.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image43.jpeg",
         "rating": 4.5,
         "distance": "1.5km"
       },
@@ -1868,7 +1868,7 @@
         "story": "巴塞罗那 9 月-10 月初时间窗口活动汇总:9.18-27 加泰图书周(Passeig de Lluís Companys,本地创作者聚集的设计文化活动)。9.23-27 La Mercè 巴塞罗那一年一度重要城市庆典,火龙表演、人塔、巨人巡游、街头演出。9.25-10.4 Piromusical 音乐焰火秀位于 Barceloneta 海边社区节、音乐及传统文化表演。9.26 19 点之后城里有奔火节,21 点之后巴塞罗那海滩有无人机表演。附加:毕加索博物馆(Carrer de Montcada 15,蓝色时期早期作品)。巴塞罗那弗朗明戈艺术表演。Pastelería Hofmann 巴塞罗那甜品天花板。",
         "hours": "活动时间",
         "price": "免费-€€",
-        "image": "/images/image47.jpeg",
+        "image": "https://cdn.jsdelivr.net/gh/622duan/slow-spain-pwa@main/images/image47.jpeg",
         "rating": 4.9,
         "distance": "0.0km",
         "hot": true
